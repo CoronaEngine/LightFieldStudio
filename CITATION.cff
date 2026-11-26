@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use SSAT or LightFieldStudio, please cite the paper below."
+type: software
+title: LightFieldStudio
+version: 0.1.0
+license: AGPL-3.0-only
+repository-code: "https://github.com/CoronaEngine/LightFieldStudio"
+url: "https://coronaengine.github.io/ssat-page/"
+authors:
+  - name: CoronaEngine
+preferred-citation:
+  type: conference-paper
+  title: "Real-Time Light-Field Path Tracing for 3D Displays via Sparse Spatial-Angular-Temporal Reconstruction"
+  authors:
+    - family-names: Yang
+      given-names: Zongyuan
+    - family-names: Zou
+      given-names: Liulei
+    - family-names: Zhu
+      given-names: Ling
+    - family-names: Xiong
+      given-names: Yongping
+    - family-names: Fan
+      given-names: Honghui
+    - family-names: Liu
+      given-names: Baolin
+    - family-names: Song
+      given-names: Yingde
+    - family-names: Zhu
+      given-names: Yu
+    - family-names: Zeng
+      given-names: Chang
+    - family-names: Ye
+      given-names: Wangping
+  collection-title: ACM SIGGRAPH 2026 Conference Papers
+  year: 2026
+  doi: "10.1145/3799902.3811158"

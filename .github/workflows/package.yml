@@ -1,0 +1,39 @@
+name: Build Windows package
+on:
+  workflow_dispatch:
+    inputs:
+      authorized_optix_sdk:
+        description: 'The publisher has authorization to redistribute bundled OptiX SDK source'
+        type: boolean
+        required: true
+        default: false
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: [self-hosted, Windows, X64, cuda-13.1]
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          submodules: recursive
+      - name: Build
+        shell: powershell
+        run: .\tools\build.ps1 -BuildDirectory "$env:RUNNER_TEMP\LightFieldStudio-build"
+      - name: Verify package authorization
+        if: ${{ !inputs.authorized_optix_sdk }}
+        shell: powershell
+        run: throw 'OptiX SDK redistribution authorization must be confirmed by the publisher.'
+      - name: Package
+        shell: powershell
+        run: >-
+          .\tools\package.ps1
+          -RuntimeDirectory "$env:RUNNER_TEMP\LightFieldStudio-build\bin\Release"
+          -CudaToolkitDirectory "$env:CUDA_PATH"
+          -MSVCRuntimeDirectory "$env:LFS_MSVC_REDIST"
+          -RuntimeLicenseDirectory "$env:LFS_RUNTIME_LICENSES"
+          -IncludeAuthorizedOptixSdk
+          -OutputDirectory "$env:RUNNER_TEMP\LightFieldStudio-package"
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: LightFieldStudio-v0.1.0-win-x64
+          path: ${{ runner.temp }}/LightFieldStudio-package/*.zip*

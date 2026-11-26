@@ -1,0 +1,512 @@
+{
+  "repository": "Royalvice/LightFieldStudio-Scenes",
+  "revision": "ce55df0caf2cae86440416681c527f9c611524f2",
+  "filename": "LightFieldStudio-scenes-v0.1.0.zip",
+  "sha256": "ce6492b2f50fa29322f57fb10d03400c61a32355ffea43b0bfea83c142aa867f",
+  "files": [
+    {
+      "path": "cbox/CBox2K.json",
+      "sha256": "ece3af9e956300957623bc0278db6670668a0b958ab04f08d21688058eccc799"
+    },
+    {
+      "path": "cbox/CBox4K.json",
+      "sha256": "b1d41b621b5806c5180c2004da334c48c3f966d0ddb31ed238150725db581af3"
+    },
+    {
+      "path": "cbox/CBox8K.json",
+      "sha256": "102c518f86ee50bf413d4f40bdbdd7ee161bdc769b18df7e4e29a7f88dceb3e5"
+    },
+    {
+      "path": "cbox/checker.jpg",
+      "sha256": "a720dd160a35d59c98437ea127a926d731124446f81630551e91fb480e69af5e"
+    },
+    {
+      "path": "cbox/LICENSE.md",
+      "sha256": "c10539fc9932cb11cf8ae3a0e39fbcf670830c7039bd5e9c7927b4f5e7da53c6"
+    },
+    {
+      "path": "cbox/Painting3.jpg",
+      "sha256": "e58c36dc8e36bb1ee83333eaa4da1dd56ca00c26edf5425a946f37650992a580"
+    },
+    {
+      "path": "cbox/textures/spruit_sunrise_2k.hdr",
+      "sha256": "be35af1e825dc7506df48bf86568f9c05f8a8552cf57edf36beb16e54534ec57"
+    },
+    {
+      "path": "cbox/THIRD_PARTY_ASSETS.md",
+      "sha256": "c405d5934c16e2b8b7ccad7f138377144880a260bd40e72463fcedd7cc50b30e"
+    },
+    {
+      "path": "coffee/ATTRIBUTION.md",
+      "sha256": "ad1fcd74af558e9992b92d36aa485a3938b5a0e37644b3b21bab491f54ad74fe"
+    },
+    {
+      "path": "coffee/Coffee2K.json",
+      "sha256": "701099a6f1885bb0d959920f29286e6275f4cf4ec1194fe590661c9da98dba06"
+    },
+    {
+      "path": "coffee/Coffee4K.json",
+      "sha256": "bd3b53f8e0e7924e7e82f5c3060027960c12f35e52aa46f214954fea63a42b6d"
+    },
+    {
+      "path": "coffee/Coffee8K.json",
+      "sha256": "a5578b0f69958f33631c1096dbf090d3003abb424fe4d6e396b89cb4fe0fae0e"
+    },
+    {
+      "path": "coffee/LICENSE.txt",
+      "sha256": "bba50982b44ce04457914a0d6da62ea91e8d0b62918f6e109e0393f2c80eb073"
+    },
+    {
+      "path": "coffee/models/Mesh000.obj",
+      "sha256": "b8f72b829d494594138ea0345de9a1c02cac7e0c9f95dc385d4f5ef8ab10d190"
+    },
+    {
+      "path": "coffee/models/Mesh001.obj",
+      "sha256": "5293051f75755663f8947d1d9a0b26b3cd09316a5f83e8c897f07fe10f6a220a"
+    },
+    {
+      "path": "coffee/models/Mesh002.obj",
+      "sha256": "ef15220ad2338f5347c3909c9b0a77db4e0a5a78fb266cdeb27e83cea2201e4d"
+    },
+    {
+      "path": "coffee/models/Mesh003.obj",
+      "sha256": "f8d67168f4088b65ce4db48c491fc1d3aa0bd00b66c134836f6d356eeb51c986"
+    },
+    {
+      "path": "coffee/models/Mesh004.obj",
+      "sha256": "5250518bc6b3e272528b77b02d18dfeeb06d4ddf9f1d9182d18e05ae3e6cd47d"
+    },
+    {
+      "path": "coffee/models/Mesh005.obj",
+      "sha256": "77018a71e514a1aa426e36536f0fe8b74c58c8913918a62b3e38c060669e106f"
+    },
+    {
+      "path": "coffee/models/Mesh006.obj",
+      "sha256": "85546ff9a6883bc43da5cb3044ccccfcbc7e9c1cb9f8653dfb3531dff10b4af8"
+    },
+    {
+      "path": "coffee/models/Mesh007.obj",
+      "sha256": "92d09078d2d8103d91ba90b0922d165f7f3a4c6ad262c39e89a4e1dbe349bef4"
+    },
+    {
+      "path": "coffee/models/Mesh008.obj",
+      "sha256": "582ec8fda950d4309dd1ad687717d2066c5f4712f0a4c636bc2883a0e8e74cf7"
+    },
+    {
+      "path": "coffee/models/Mesh009.obj",
+      "sha256": "8379d36c7bacd96673e4ed72de33e9a5c77a42a838c4c7bc966f131cd49b8b67"
+    },
+    {
+      "path": "coffee/models/Mesh010.obj",
+      "sha256": "f44e67987b90f8ef1b33dfc87af0b34cf679cb2ad177185f5ee2a7a96d7cc884"
+    },
+    {
+      "path": "coffee/models/Mesh011.obj",
+      "sha256": "79a4ec29d91a214abfc020580010d6133b5b64567acb24cf735f075fb5bf7953"
+    },
+    {
+      "path": "coffee/models/Mesh012.obj",
+      "sha256": "0c1d1ff69c96d04876fc44eb22687273f27529f4a56e7a4b0b80cf213c6c048d"
+    },
+    {
+      "path": "coffee/models/Mesh013.obj",
+      "sha256": "3a08886048531098ed897873e2c5a4daf59cfc9c645b556b7beeab31a47e5b58"
+    },
+    {
+      "path": "coffee/models/Mesh014.obj",
+      "sha256": "933d185717a265542681b2bddc145e65d63f23724013959e70b2458f60c47a01"
+    },
+    {
+      "path": "coffee/models/Mesh015.obj",
+      "sha256": "3e407434df0787fcd335e123cb80830b5a2ce34f1c3454dff4c27275ea01167f"
+    },
+    {
+      "path": "coffee/models/Mesh016.obj",
+      "sha256": "c52e676d6e4c2a8fed4e81449703c43c0039bab12c3bff98771d8c927ef0c95d"
+    },
+    {
+      "path": "coffee/models/Mesh017.obj",
+      "sha256": "2ddc2866146feacbf1b5cf42943a30ccbd912fdad6c322c35b26dcd13110dc8b"
+    },
+    {
+      "path": "coffee/models/Mesh018.obj",
+      "sha256": "0354ebb1a5ba2aad23f0f5a95c2317227ff0cbdf4728ceed35f6900725e70ee9"
+    },
+    {
+      "path": "coffee/models/Mesh019.obj",
+      "sha256": "7ba9ce092444726bd55f47e3d5fbb64a153c0d2199d65fefc8e28af56dfe4faf"
+    },
+    {
+      "path": "spaceship/ATTRIBUTION.md",
+      "sha256": "b39d8291293d7c5a5b740850896644456d470d9f2b20db8f9142887771580650"
+    },
+    {
+      "path": "spaceship/LICENSE.txt",
+      "sha256": "6f8b4b086c9fc48f238225e81cda9fc4fbf41507e2a0da21cdbec93b30b7efc6"
+    },
+    {
+      "path": "spaceship/models/Mesh000.obj",
+      "sha256": "545accf46c577ab032a3afa9246a9b6ed7b9b48f4f8175f10eaa61eab149307a"
+    },
+    {
+      "path": "spaceship/models/Mesh001.obj",
+      "sha256": "3c7c4803f789432962e0dc3789c8302b18934c7e672b09ca1fad0b313176dc87"
+    },
+    {
+      "path": "spaceship/models/Mesh002.obj",
+      "sha256": "77b53aede793cf85efd6c4e2171c311ecc4caf2834130fa370fa6c5e7e563a2e"
+    },
+    {
+      "path": "spaceship/models/Mesh003.obj",
+      "sha256": "dc941d0c0c92718e650ad61ff9d653854ac81919f4e31dbd0c99c86267fffbcf"
+    },
+    {
+      "path": "spaceship/models/Mesh004.obj",
+      "sha256": "eecbefb4aa6f90ff7de9317333b7302a23780236bd2d2725d3c0d5701dfe7fc7"
+    },
+    {
+      "path": "spaceship/models/Mesh005.obj",
+      "sha256": "5d28d848d0ed4377eef5c7e0a6184e91b12da1282ece4438974a0606299f5d05"
+    },
+    {
+      "path": "spaceship/models/Mesh006.obj",
+      "sha256": "cce14ed39cd74abc48073a5777e6afa4c33e037bc6f24607199e7742a5b01b74"
+    },
+    {
+      "path": "spaceship/models/Mesh007.obj",
+      "sha256": "201775485a4f3d25bb131f56031444a23195873777f69137cb9b130081f7b042"
+    },
+    {
+      "path": "spaceship/models/Mesh008.obj",
+      "sha256": "f0ecda4576d0911e8c3ed48799eb8d5aa668a8364851aa1e9c8c6480a55c9f29"
+    },
+    {
+      "path": "spaceship/models/Mesh009.obj",
+      "sha256": "bfc5268c1116a9e458e54975aee8361ec61e4e417a96976508e36de82f8a0284"
+    },
+    {
+      "path": "spaceship/models/Mesh010.obj",
+      "sha256": "b2c5f2288279accc9db4c5c8f3f57e754bd6cc183f612fc33644c7e4bd8c99fb"
+    },
+    {
+      "path": "spaceship/models/Mesh011.obj",
+      "sha256": "9ebe10d553ee21bee59a3c7b9ed16aafd95664b2cb81c2b545528e0ffea87322"
+    },
+    {
+      "path": "spaceship/models/Mesh012.obj",
+      "sha256": "af385b9a8f415d447fd5765e9ffb65342923bc449b7d69982381e7d62387a071"
+    },
+    {
+      "path": "spaceship/models/Mesh013.obj",
+      "sha256": "27b4babab1ed92fafc51d9aaf9c1bdf4b91fae079f58248199020bf79342ff97"
+    },
+    {
+      "path": "spaceship/models/Mesh014.obj",
+      "sha256": "b7a25d50d79bbf4a3e22b642f993b645174454e472d169594344d955ff14211d"
+    },
+    {
+      "path": "spaceship/models/Mesh015.obj",
+      "sha256": "8b299cdf4ac2a22c2ad27ce4c6337c73b27041c592990c6053cbc2991f64f69f"
+    },
+    {
+      "path": "spaceship/models/Mesh016.obj",
+      "sha256": "ce15ea95d658d967e9638c4312266bbfde6dfcc6fdbbc0b43d6cab23a2bfbf82"
+    },
+    {
+      "path": "spaceship/models/Mesh017.obj",
+      "sha256": "5878ca9786ce4b5d28147314a9e2994a5d866b61673f66885909d9fb3dc9ac59"
+    },
+    {
+      "path": "spaceship/models/Mesh018.obj",
+      "sha256": "ff3054b5a23b370361863a9dc190acfff62cfa035ad06a2b1c8bc7ff445850f2"
+    },
+    {
+      "path": "spaceship/models/Mesh019.obj",
+      "sha256": "18b1547977476741e30db5f723ff5a51272bc09f20207a61da6d73e18b5a495e"
+    },
+    {
+      "path": "spaceship/models/Mesh020.obj",
+      "sha256": "e218c7b8fbf41f26e66fc7a009931731baa650862cafba40f812b2b13746e85b"
+    },
+    {
+      "path": "spaceship/models/Mesh021.obj",
+      "sha256": "1afef8e45100b596e6f117f928a885ff6b2a93225c854ae4d4868c0d271e657e"
+    },
+    {
+      "path": "spaceship/models/Mesh022.obj",
+      "sha256": "31221275d9bccc87707c04623d10ead3b34ccc9149bb215c032e874fb96e9157"
+    },
+    {
+      "path": "spaceship/models/Mesh023.obj",
+      "sha256": "6483cf557a805f80d7bcd6c8bed938ac656f3ea54d9b7ba5b58b82a765371e2a"
+    },
+    {
+      "path": "spaceship/models/Mesh024.obj",
+      "sha256": "21243230863e331d652fa89f70958d1c120d883e5c5b6f6b637a4045e29b3c7c"
+    },
+    {
+      "path": "spaceship/models/Mesh025.obj",
+      "sha256": "95e85289881d9bf133541ef0fdbf6e97ccc148a5b26f0fc01275830f3ed01be5"
+    },
+    {
+      "path": "spaceship/models/Mesh026.obj",
+      "sha256": "587cf99658f65a6404e268a43d4fd928e9ee1515ce91993258da3409c47ae75f"
+    },
+    {
+      "path": "spaceship/models/Mesh027.obj",
+      "sha256": "442dd228f8e4812b7224e3506b1573ec6f4b0e398f8618dcac666e827bb68d22"
+    },
+    {
+      "path": "spaceship/models/Mesh028.obj",
+      "sha256": "6522623ccccc518bd1dc5ab5d4a16d660e293e51506e57d246794956770a4615"
+    },
+    {
+      "path": "spaceship/models/Mesh029.obj",
+      "sha256": "97d811e3aa975534c5dc2f2727dfd0203507e5b5dcf04cb8d8cc9ddf47785926"
+    },
+    {
+      "path": "spaceship/models/Mesh030.obj",
+      "sha256": "f431e6163509222ca9d83bc7dca49f61707c62a24cf05982263ae8545c3c998d"
+    },
+    {
+      "path": "spaceship/models/Mesh031.obj",
+      "sha256": "dcdf4024ceeb59eff9553d37f4eb803f0427e83263e8d01de5c756166126e36a"
+    },
+    {
+      "path": "spaceship/models/Mesh032.obj",
+      "sha256": "d8276f7668adc1d240ea8e9664a04b6069af4176715ea9aaa251565f44e4107d"
+    },
+    {
+      "path": "spaceship/models/Mesh033.obj",
+      "sha256": "ae98e97304dc1cddd8c91118c4dc8837a6094f12ab33e4a978e4f299e4973e4f"
+    },
+    {
+      "path": "spaceship/models/Mesh034.obj",
+      "sha256": "06ea14a1049eabdbc6f3a2c7ac1418f4287531a40970bd06776d42bc40d7bca5"
+    },
+    {
+      "path": "spaceship/models/Mesh035.obj",
+      "sha256": "6b5d86b8575a8975043243a5df80ebd939affbc2171ed3939f1484072f3ae61b"
+    },
+    {
+      "path": "spaceship/models/Mesh036.obj",
+      "sha256": "bbd86171db91ae4df78770f99efceca4e8bd6366261127d935e21ede18a7dd17"
+    },
+    {
+      "path": "spaceship/models/Mesh037.obj",
+      "sha256": "caeb4dd668eadb84ac640a528956cc503c29f25644ae53f65dd0bdfe14b71225"
+    },
+    {
+      "path": "spaceship/models/Mesh038.obj",
+      "sha256": "ff1f141a6864707c0532792b452b8158e241457fe7ee19f1cc9bc78dc99398b9"
+    },
+    {
+      "path": "spaceship/models/Mesh039.obj",
+      "sha256": "a4a253a0c682d0f3006595462ab51569bbcb5c54740a22a8a12dc12afe222596"
+    },
+    {
+      "path": "spaceship/models/Mesh040.obj",
+      "sha256": "55970a5bde75a9016129c6e1ddaa8c5f9a010c8236bddad0aba72db4eb5970f6"
+    },
+    {
+      "path": "spaceship/models/Mesh041.obj",
+      "sha256": "618319680bdfc3fbfda19401a4a4aed53e3eb71cee81941af0f540945e12e37b"
+    },
+    {
+      "path": "spaceship/models/Mesh042.obj",
+      "sha256": "dd8769219df996b5b2eee3c8631a06ec7c93a4145646be4f29c045990e4ab381"
+    },
+    {
+      "path": "spaceship/models/Mesh043.obj",
+      "sha256": "ae57539748355fc14b9a554a59cc31b90599eaa92d02385566589003f65c0ab7"
+    },
+    {
+      "path": "spaceship/models/Mesh044.obj",
+      "sha256": "7acaafae590ba0cbfc5b3f555f9990dc7bad856828ce8b49a08e8f3b25ffcbcc"
+    },
+    {
+      "path": "spaceship/models/Mesh045.obj",
+      "sha256": "e1a4996b1af07886f706a83ac873bf5499565ab386a85767a91fd73a9570e6ea"
+    },
+    {
+      "path": "spaceship/models/Mesh046.obj",
+      "sha256": "57611f11b333fbcd7403d7fc5333797b3b4a8c1c6fec1ad7dae3f0c734628c49"
+    },
+    {
+      "path": "spaceship/models/Mesh047.obj",
+      "sha256": "1dc1e68cc2be6de5dbb3cf58b0f9d5d67ce5521fa70be471055bc73fabd07e38"
+    },
+    {
+      "path": "spaceship/models/Mesh048.obj",
+      "sha256": "a533e08e71254285ef2a76375c6432270e4337b64b54f69c768c9ab18d812ba4"
+    },
+    {
+      "path": "spaceship/models/Mesh049.obj",
+      "sha256": "2559d1c0b434aaf787890732ba2dc2429bb84c302251c75c53dd4acba99fbf7d"
+    },
+    {
+      "path": "spaceship/models/Mesh050.obj",
+      "sha256": "1c516908aea355873664d17f8575efb8dcb2b7c5f2c5383cccfc8ff515f20f08"
+    },
+    {
+      "path": "spaceship/models/Mesh051.obj",
+      "sha256": "544225df4d671ef6027a87c1415719ccb7d02f53dcf6c8bddd284321fb03ab47"
+    },
+    {
+      "path": "spaceship/models/Mesh052.obj",
+      "sha256": "7c58590ada7a3386a66e5f6c6ff806cacc14718c1c6252d0dcf311d60910e972"
+    },
+    {
+      "path": "spaceship/models/Mesh053.obj",
+      "sha256": "edd8d4c202193a4410a6527becc87b92cad7477155942803c1eff7009fa668f1"
+    },
+    {
+      "path": "spaceship/models/Mesh054.obj",
+      "sha256": "77015afe3fa1b6141e72b69410cb9d7b1ea4b63c2d5aa30b7a7cbaecca0d2d15"
+    },
+    {
+      "path": "spaceship/models/Mesh055.obj",
+      "sha256": "9b9baa03da2b909d0e45c83613f9ad805d5e78b141b7b614a3737b91217be6d8"
+    },
+    {
+      "path": "spaceship/models/Mesh056.obj",
+      "sha256": "13f160186c0e336b634e89721bbd82b3055c25c6b179832c08908e1ba6034d57"
+    },
+    {
+      "path": "spaceship/models/Mesh057.obj",
+      "sha256": "28e0c5fcd384e6ec9297eeb39d09343967bc3daaead50ddde2f1002387829c98"
+    },
+    {
+      "path": "spaceship/models/Mesh058.obj",
+      "sha256": "bfe42a389c126573649f018c7e49c98fa3dc38ecb90e9cb2217a5e9eca18530c"
+    },
+    {
+      "path": "spaceship/models/Mesh059.obj",
+      "sha256": "e0aedb052cc9d81c6bfe6675e95859408c3c6a5b671979c0440605f81abc9ee2"
+    },
+    {
+      "path": "spaceship/models/Mesh060.obj",
+      "sha256": "ca6496f16cbe31acafb727ec0b93659b934f38e7edc38774dab636cfb79d475c"
+    },
+    {
+      "path": "spaceship/models/Mesh061.obj",
+      "sha256": "dea5e206e930eb87f6bb837c459f37515bfdd703b18a832e6f7df0b8f288617c"
+    },
+    {
+      "path": "spaceship/models/Mesh062.obj",
+      "sha256": "75d2d9283a7449b19f9c749b8a42343af404000cb6c6145f4eb49fecaf56f109"
+    },
+    {
+      "path": "spaceship/models/Mesh063.obj",
+      "sha256": "ec0e7a7f72c2aff8241a67c659382ce027ba30025f83e6cf0fc3305b73e924e6"
+    },
+    {
+      "path": "spaceship/models/Mesh064.obj",
+      "sha256": "d4521191d610005c48be7c5f6f37d0bddc938300d70441bea45b067d83cbd2a6"
+    },
+    {
+      "path": "spaceship/models/Mesh065.obj",
+      "sha256": "877e322d6a88137914e647b3c3bd29c6dab5cc1bf5de36cd55f03641669a53cc"
+    },
+    {
+      "path": "spaceship/models/Mesh066.obj",
+      "sha256": "5fff68a5e57f10c5cc64801135ff518d1b29c6258c9d2cc0106a32f2ebfae05e"
+    },
+    {
+      "path": "spaceship/models/Mesh067.obj",
+      "sha256": "5df8f391b3b8a596c2336473a7412c6f834171f70eaa3d5b7b59b3aa12f3fdb5"
+    },
+    {
+      "path": "spaceship/models/Mesh068.obj",
+      "sha256": "799365e76ddd747e8d031c3bb85984fb537baaca17420022f3dc4eafe892171e"
+    },
+    {
+      "path": "spaceship/models/Mesh069.obj",
+      "sha256": "0eab9c36769177a1b665b314763257586cc4121814738cd3bc08d871d093a033"
+    },
+    {
+      "path": "spaceship/models/Mesh070.obj",
+      "sha256": "5fde39432b4dd824a0bbe1e36469504aec0e0c98d16b3a3c3ff0ce39a7a1cf8a"
+    },
+    {
+      "path": "spaceship/models/Mesh071.obj",
+      "sha256": "8766756ba7d5381ca9016947e1293dd5687b70b6e6b7a3953cad26d29249d784"
+    },
+    {
+      "path": "spaceship/models/Mesh072.obj",
+      "sha256": "e82f3d197515a079c28429273202fd462a452cff1319a23426f8b4595d06b469"
+    },
+    {
+      "path": "spaceship/models/Mesh073.obj",
+      "sha256": "13bfb0fe42c324267f24bb0b6c06bd88f8d3074216f9a259013ccd8a8185b78f"
+    },
+    {
+      "path": "spaceship/models/Mesh074.obj",
+      "sha256": "c2e0cf716ad6038072057aa33ae2cbd02729421a6deef0e6f64721a26a5a8057"
+    },
+    {
+      "path": "spaceship/models/Mesh075.obj",
+      "sha256": "84e9660892653fc62859227b1fa5b93a76a3d2655a68ade275368a592c67ed5b"
+    },
+    {
+      "path": "spaceship/models/Mesh076.obj",
+      "sha256": "06f718eea44634a2b5dbaa656bb1ce60e0f7530a0fb04dc6c87393c50f34c807"
+    },
+    {
+      "path": "spaceship/models/Mesh077.obj",
+      "sha256": "08973edac0e5eba2bfd2e850770be9c576faf575d5544962816d8cd6b06f5f92"
+    },
+    {
+      "path": "spaceship/models/Mesh078.obj",
+      "sha256": "c3f7952db57977a6a6c27baf730f0d24cff4795308e6d4220b4dd82e7fc24052"
+    },
+    {
+      "path": "spaceship/models/Mesh079.obj",
+      "sha256": "c2c2b2675852b37e4733a4603b86ba699ca3c6b7d8faee7bd8775221021c14a1"
+    },
+    {
+      "path": "spaceship/models/Mesh080.obj",
+      "sha256": "c3455f16564364260a12a8e3fe40b32b3e094d3ad186db0f47d9aad0c68daa5d"
+    },
+    {
+      "path": "spaceship/models/Mesh081.obj",
+      "sha256": "c9762be2e0a1dcaabef5152ee0d49248644700310f9da3f435fdaa8a5236976e"
+    },
+    {
+      "path": "spaceship/models/Mesh082.obj",
+      "sha256": "bf644e4e446fe8afe59ce721b19afea322b40fcda2581904061dbedc4350c702"
+    },
+    {
+      "path": "spaceship/models/Mesh083.obj",
+      "sha256": "47d7f94c4af49c756adaa4fd1c20fd7c146c0e2aa879bc21a7dbd50d029eda4e"
+    },
+    {
+      "path": "spaceship/models/Mesh084.obj",
+      "sha256": "d5da82aa846fb1986528d89235b240f42457b454f8adfb5b4a7fed4bd40963c8"
+    },
+    {
+      "path": "spaceship/models/Mesh085.obj",
+      "sha256": "637090cc406526b41793f6040804b06bdcffd5c7ea00179d0a3d66e59f7eed3d"
+    },
+    {
+      "path": "spaceship/models/Mesh086.obj",
+      "sha256": "c2fb4a5ac9ef92528172bf25bac3413e8ed929d9152b46c44b0dbdea3c910626"
+    },
+    {
+      "path": "spaceship/models/Mesh087.obj",
+      "sha256": "4380bbae228d63ed78b8f66622240498b7f4d26efe73303bdf3f6e36e257b5a8"
+    },
+    {
+      "path": "spaceship/SpaceShip2K.json",
+      "sha256": "7a5ab5cd6cc1021e92c5fefc002f7d5890e5da6f93a06631ee39dd709fe4c67e"
+    },
+    {
+      "path": "spaceship/SpaceShip4K.json",
+      "sha256": "f0a0a02ea48625cebbedb20752737aeaa81457eea76748494bb311ff8149aa82"
+    },
+    {
+      "path": "spaceship/SpaceShip8K.json",
+      "sha256": "9d91b565d96a4b8593b4f4af4f7b957889ab1762f9dc8ba740ed19ec46ecc1ff"
+    }
+  ]
+}

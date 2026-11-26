@@ -1,0 +1,10 @@
+* text=auto
+*.gif binary
+*.png binary
+*.jpg binary
+*.zip binary
+*.ps1 text eol=crlf
+*.cpp text eol=lf
+*.h text eol=lf
+*.cu text eol=lf
+*.cuh text eol=lf

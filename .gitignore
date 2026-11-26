@@ -1,0 +1,15 @@
+/build/
+/assets/cbox/
+/assets/coffee/
+/assets/spaceship/
+/.cache/
+/.vs/
+/CMakeUserPresets.json
+*.user
+*.suo
+*.log
+/packages/
+*.zip
+*.pdb
+*.obj
+*.fatbin

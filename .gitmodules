@@ -1,0 +1,4 @@
+[submodule "backend/Vision"]
+	path = backend/Vision
+	url = https://github.com/CoronaEngine/Vision.git
+	branch = ssat-backend
